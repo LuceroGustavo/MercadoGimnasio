@@ -1,0 +1,33 @@
+ALUMNOS Y GESTION DE FICHA - ORDEN Y SEGUIMIENTO REAL
+
+En la APP Administracion de Gym presencial y virtual, el modulo de alumnos es uno de los pilares de gestion.
+Permite concentrar informacion clave en una ficha clara, util y accionable para el profesor y el equipo.
+
+Objetivo del modulo:
+- Tener datos del alumno ordenados y actualizados.
+- Facilitar el seguimiento en el tiempo.
+- Evitar perdida de informacion en chats o planillas sueltas.
+
+Funciones principales:
+1) Alta, edicion y estado del alumno (activo/inactivo).
+2) Datos personales y de contacto.
+3) Tipo de asistencia (presencial, virtual o semipresencial).
+4) Horarios de entrenamiento y detalles operativos.
+5) Fecha de nacimiento para calculo automatico de edad.
+6) Ficha con historial y resumen de interacciones.
+
+Valor operativo para el gimnasio:
+- El profesor ve rapidamente que necesita cada alumno.
+- Se mejora la continuidad del servicio aunque cambie quien atiende.
+- Se reduce el error de "memoria" o datos incompletos.
+
+Valor comercial para comunicar:
+- El gimnasio se profesionaliza porque cada alumno tiene seguimiento organizado.
+- Mejora la calidad percibida del servicio.
+- Permite una atencion mas personalizada y consistente.
+
+Enfoque recomendado para NotebookLM:
+Enfatizar que la ficha del alumno no es solo un registro, sino una herramienta de trabajo diario para mejorar servicio, orden y retencion.
+
+Mensaje clave de cierre:
+Cuando la informacion del alumno esta ordenada, el entrenamiento deja de improvisarse.

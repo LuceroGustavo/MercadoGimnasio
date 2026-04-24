@@ -1,0 +1,34 @@
+PANEL DEL PROFESOR - CENTRO DE CONTROL OPERATIVO
+
+El panel del profesor en la APP Administracion de Gym presencial y virtual es el nucleo de trabajo diario del gimnasio.
+Desde esta vista centralizada, el staff puede acceder rapidamente a las funciones mas importantes sin perder tiempo navegando por multiples sistemas.
+
+El objetivo del panel es claro:
+ordenar la operacion, acelerar tareas rutinarias y dar una vista general del estado del gimnasio en tiempo real.
+
+Que aporta el panel en la practica:
+- Centralizacion: alumnos, series, rutinas, asignaciones, calendario y pizarra en un mismo entorno.
+- Rapidez: accesos directos a tareas frecuentes (crear alumno, crear serie, crear rutina, ver calendario).
+- Claridad: visualizacion de indicadores clave en tarjetas resumidas.
+- Continuidad: el profesor trabaja con una logica de flujo, no con pantallas aisladas.
+
+Enfoque funcional del bloque:
+1) Vista de resumen con tarjetas principales (alumnos, series, rutinas, calendario).
+2) Botones de acceso rapido a ejercicios, administracion del sistema y pizarra.
+3) Pestañas de trabajo para pasar de un modulo a otro sin friccion.
+4) Integracion con asistencia, progreso y asignaciones para seguimiento real de cada alumno.
+
+Valor diferencial para comunicar:
+- No es solo un "menu"; es una mesa de control para el gimnasio.
+- Permite tomar decisiones diarias con mejor informacion y menos desorden.
+- Reduce errores operativos al concentrar acciones en un flujo unico.
+
+Responsive y experiencia de uso:
+La APP Administracion de Gym presencial y virtual esta pensada para usarse en distintos dispositivos (PC, notebook, tablet y celular), lo que facilita operar tanto desde escritorio como en movimiento dentro del gimnasio.
+Esto mejora la adopcion del equipo y agiliza el trabajo en horarios de alta demanda.
+
+Enfoque recomendado para NotebookLM:
+Desarrollar este bloque como "el corazon del sistema", destacando organizacion, centralizacion, velocidad de trabajo y capacidad de control operativo para el profesor y su equipo.
+
+Mensaje clave para cierre del bloque:
+Con un panel bien diseñado, el gimnasio deja de improvisar y empieza a gestionar con metodo.

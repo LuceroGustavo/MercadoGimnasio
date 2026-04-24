@@ -1,0 +1,31 @@
+SERIES Y RUTINAS - PLANIFICACION ENTRENABLE Y REPETIBLE
+
+La APP Administracion de Gym presencial y virtual permite crear series y rutinas de forma estructurada.
+Esto transforma la planificacion del entrenamiento en un proceso claro, reusable y facil de ajustar.
+
+Objetivo del modulo:
+- Pasar de rutinas improvisadas a rutinas con estructura.
+- Permitir reutilizar plantillas sin rehacer todo cada semana.
+- Mantener calidad y coherencia en la prescripcion.
+
+Como funciona:
+1) Se crean series con ejercicios y parametros de trabajo.
+2) Se ordenan las series segun logica de entrenamiento.
+3) Se construyen rutinas como plantillas listas para asignar.
+4) Se editan y ajustan rapidamente segun evolucion del alumno.
+
+Beneficios operativos:
+- Menos tiempo administrativo para el profesor.
+- Mas control sobre la progresion del entrenamiento.
+- Mayor estandarizacion del trabajo entre miembros del staff.
+
+Beneficios comerciales:
+- El gimnasio comunica que trabaja con sistema profesional.
+- Mejora la experiencia del alumno al recibir planes claros.
+- Eleva la confianza en el servicio y en la metodologia.
+
+Enfoque recomendado para NotebookLM:
+Mostrar que series y rutinas son el motor tecnico que convierte conocimiento del profesor en un servicio organizado y escalable.
+
+Mensaje clave de cierre:
+Planificar bien no solo mejora resultados fisicos; tambien mejora la gestion del negocio.

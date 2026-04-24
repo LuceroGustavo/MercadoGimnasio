@@ -1,0 +1,31 @@
+IMPLEMENTACION, DOMINIO, SERVIDOR Y SOPORTE INICIAL
+
+La APP Administracion de Gym presencial y virtual no se limita al software.
+Tambien contempla una etapa de implementacion ordenada para que el gimnasio quede operativo en produccion.
+
+Objetivo del bloque:
+- Dar claridad sobre como se pone en marcha la solucion.
+- Diferenciar costos de implementacion y costos recurrentes.
+- Evitar confusiones comerciales desde el inicio.
+
+Puntos clave para explicar:
+1) Dominio y servidor son contratados por el cliente a su nombre.
+2) Se brinda asesoramiento para elegir infraestructura adecuada.
+3) Se realiza configuracion tecnica y despliegue inicial.
+4) Se incluye soporte inicial para pulido y verificacion de lo entregado.
+
+Mensaje comercial recomendado:
+- Transparencia: el cliente conserva control de su entorno.
+- Autonomia: no queda atado a un intermediario para operar su web.
+- Profesionalismo: implementacion guiada con acompanamiento real.
+
+Aclaracion de alcance de soporte inicial:
+- Incluye correccion de detalles y ajustes finos de lo ya implementado.
+- No incluye nuevas funcionalidades grandes fuera del alcance acordado.
+- Cualquier desarrollo extra se cotiza como nueva etapa.
+
+Enfoque recomendado para NotebookLM:
+Explicar este bloque con lenguaje claro y profesional para construir confianza contractual y evitar malentendidos.
+
+Mensaje clave de cierre:
+Implementar bien desde el principio ahorra problemas y acelera resultados.

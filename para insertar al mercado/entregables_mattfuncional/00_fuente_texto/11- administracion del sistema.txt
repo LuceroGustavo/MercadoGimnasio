@@ -1,0 +1,31 @@
+ADMINISTRACION DEL SISTEMA - CONTROL DEL NEGOCIO DESDE UN SOLO LUGAR
+
+La APP Administracion de Gym presencial y virtual incluye un bloque de administracion para gestionar aspectos clave del funcionamiento del sistema.
+Esto permite al gimnasio tener mayor autonomia y control operativo.
+
+Objetivo del modulo:
+- Centralizar configuraciones importantes.
+- Gestionar usuarios internos y permisos.
+- Mantener orden en contenido y estructura del sistema.
+
+Alcance general del bloque:
+1) Gestion de usuarios del staff (segun roles y permisos).
+2) Acceso a configuraciones de pagina publica.
+3) Apoyo a tareas de mantenimiento y respaldo.
+4) Soporte para administracion diaria sin depender de terceros en cada ajuste menor.
+
+Valor operativo:
+- Menos cuellos de botella administrativos.
+- Mas control interno del gimnasio.
+- Mejor continuidad aunque haya cambios de personal.
+
+Valor comercial:
+- El gimnasio percibe que "el sistema es suyo" y lo puede administrar.
+- Aumenta confianza en la inversion digital.
+- Refuerza una imagen de empresa organizada y profesional.
+
+Enfoque recomendado para NotebookLM:
+Desarrollar este bloque como garantia de autonomia operativa: no solo se entrena mejor, tambien se administra mejor.
+
+Mensaje clave de cierre:
+Administrar bien el sistema es administrar mejor el gimnasio.

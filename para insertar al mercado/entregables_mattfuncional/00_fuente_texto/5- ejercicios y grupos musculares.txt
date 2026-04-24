@@ -1,0 +1,32 @@
+EJERCICIOS Y GRUPOS MUSCULARES - BIBLIOTECA TECNICA DEL GYM
+
+La APP Administracion de Gym presencial y virtual incluye un modulo para organizar ejercicios y grupos musculares.
+Este bloque le da al profesor una base tecnica ordenada para construir series y rutinas con criterio.
+
+Objetivo del modulo:
+- Estandarizar el trabajo de planificacion.
+- Ahorrar tiempo al crear entrenamientos.
+- Mantener consistencia metodologica en el equipo.
+
+Capacidades clave:
+1) Biblioteca de ejercicios para iniciar rapido.
+2) Busqueda y filtros por nombre o grupo muscular.
+3) Creacion de ejercicios propios del gimnasio.
+4) Gestion de grupos musculares para clasificar mejor.
+5) Uso de contenido visual (imagen o video) para mejorar comprension.
+
+Impacto operativo:
+- Menos desorden al armar entrenamientos.
+- Menos duplicados o ejercicios mal categorizados.
+- Mejor calidad tecnica al prescribir trabajo por objetivo.
+
+Impacto comercial:
+- Posiciona al gimnasio como una empresa que entrena con metodo.
+- Aumenta la percepcion de profesionalismo del staff.
+- Facilita mostrar "proceso y sistema", no solo clases aisladas.
+
+Enfoque recomendado para NotebookLM:
+Presentar este modulo como la base tecnica que sostiene la calidad del servicio y la escalabilidad del trabajo del profesor.
+
+Mensaje clave de cierre:
+Sin biblioteca ordenada no hay metodo; con metodo, el gimnasio entrena mejor y comunica mejor.

@@ -1,0 +1,42 @@
+PROMPT GENERAL MAESTRO - NOTEBOOKLM
+
+Actua como estratega comercial y editor de contenido para venta B2B de software en gimnasios.
+Con los archivos TXT e imagenes adjuntas, crea una pieza comercial completa y coherente para
+"APP Administracion de Gym presencial y virtual".
+
+Contexto:
+- El material esta dividido por bloques numerados (introduccion, pagina publica, panel, alumnos, rutinas, calendario, pizarra, administracion, implementacion y cierre).
+- Cada bloque tiene imagenes con el mismo numero y nombre de modulo.
+- El objetivo es generar piezas claras para presentar a duenios y encargados de gimnasio.
+
+Lo que necesito que produzcas:
+1) PDF comercial principal estructurado y persuasivo.
+2) Guion de video explicativo con voz (60-90 segundos).
+3) 6 guiones de microvideos verticales (8-12 segundos) sin voz.
+4) Version corta de mensaje para WhatsApp para invitar a una demo.
+
+Reglas obligatorias:
+- No inventes funciones ni promesas fuera de los documentos.
+- No inventes precios.
+- Lenguaje claro, profesional y orientado a negocio.
+- Evitar tecnicismos innecesarios.
+- Resaltar siempre beneficios concretos para el gimnasio.
+
+Enfoque narrativo recomendado:
+Problema actual -> solucion integral -> prueba por modulos -> beneficios reales -> llamado a la accion.
+
+Beneficios que deben aparecer:
+- Mejor imagen y prestigio del gimnasio.
+- Orden operativo para el equipo.
+- Seguimiento profesional de alumnos.
+- Entrega simple de rutinas por enlace.
+- Diferenciacion frente a gimnasios menos digitalizados.
+
+Llamado a la accion final:
+"Agenda una demo de 15 minutos y mira como funcionaria en tu gimnasio."
+
+Formato de salida:
+- Titulares breves y claros.
+- Bullets concretos.
+- Cierres con foco comercial.
+- Adaptar tono para duenio de gimnasio (resultado y gestion).

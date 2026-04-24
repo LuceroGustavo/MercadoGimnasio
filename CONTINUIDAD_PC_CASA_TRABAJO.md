@@ -50,7 +50,8 @@ _Escribí aquí una línea por sesión: fecha, PC (casa/trabajo), qué quedó he
 | Fecha | PC | Hecho | Siguiente paso |
 |--------|-----|--------|-----------------|
 | 2026-04-23 | casa | Creado este archivo de continuidad; lectura de toda la documentación de raíz | Completar filas siguientes en cada sesión; push a GitHub |
+| 2026-04-24 | trabajo | Relectura completa de documentación (`LEEME`, resúmenes y manuales) para plan de inserción al mercado; confirmado flujo de trabajo entre dos PCs con GitHub como puente. Además se creó `para insertar al mercado/entregables_mattfuncional/` con plan maestro, guía de imágenes y prompts base para NotebookLM | Completar materiales reales (capturas por módulo + texto fuente) y generar PDF v1/video v1; cerrar sesión con `git push` para continuidad en PC casa |
 
 ---
 
-*Última actualización relevante: 2026-04-23 (PC casa).*
+*Última actualización relevante: 2026-04-24 (PC trabajo).*

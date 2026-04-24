@@ -1,0 +1,31 @@
+CALENDARIO Y PRESENTISMO - CONTROL DIARIO DE LA OPERACION
+
+La APP Administracion de Gym presencial y virtual integra calendario semanal y control de asistencia en una misma logica de trabajo.
+Este bloque ayuda a ordenar la agenda del gimnasio y dar seguimiento real de cumplimiento.
+
+Objetivo del modulo:
+- Visualizar rapidamente la ocupacion semanal.
+- Marcar asistencia sin procesos complejos.
+- Tener informacion util para decisiones operativas.
+
+Capacidades principales:
+1) Vista semanal clara por dias y horarios.
+2) Registro de asistencia (pendiente, presente, ausente).
+3) Vinculacion con ficha del alumno e historial.
+4) Mejor control de continuidad y frecuencia.
+
+Valor operativo:
+- Mejora la planificacion diaria del equipo.
+- Detecta faltas recurrentes o baja adherencia.
+- Facilita reorganizar horarios cuando hace falta.
+
+Valor comercial:
+- Un gimnasio ordenado transmite profesionalismo.
+- La asistencia medida permite mejores acciones de retencion.
+- Se mejora la experiencia porque el alumno siente seguimiento.
+
+Enfoque recomendado para NotebookLM:
+Presentar calendario y presentismo como un tablero de control diario que conecta planificacion, ejecucion y seguimiento.
+
+Mensaje clave de cierre:
+Lo que se mide se puede mejorar; asistencia y agenda ordenadas mejoran resultados y gestion.

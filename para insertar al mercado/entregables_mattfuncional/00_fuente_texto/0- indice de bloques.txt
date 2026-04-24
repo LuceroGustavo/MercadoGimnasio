@@ -1,0 +1,24 @@
+INDICE DE BLOQUES - APP ADMINISTRACION DE GYM PRESENCIAL Y VIRTUAL
+
+0- indice de bloques
+1- introduccion
+2- pagina publica
+3- panel del profesor
+4- alumnos y gestion de ficha
+5- ejercicios y grupos musculares
+6- series y rutinas
+7- asignaciones por enlace y whatsapp
+8- calendario y presentismo
+9- progreso del alumno
+10- pizarra digital en tv
+11- administracion del sistema
+12- implementacion, dominio, servidor y soporte inicial
+13- cierre comercial y llamado a la accion
+
+Regla de trabajo:
+- Un archivo TXT por bloque.
+- Nombre de imagenes con el mismo numero y bloque.
+  Ejemplo:
+  - 3- panel del profesor-01.png
+  - 3- panel del profesor-02.png
+  - 10- pizarra digital en tv-01.png

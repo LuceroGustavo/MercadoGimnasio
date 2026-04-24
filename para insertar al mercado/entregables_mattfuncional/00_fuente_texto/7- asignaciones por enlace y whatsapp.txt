@@ -1,0 +1,31 @@
+ASIGNACIONES POR ENLACE Y WHATSAPP - ENTREGA SIMPLE PARA EL ALUMNO
+
+La APP Administracion de Gym presencial y virtual permite asignar rutinas a cada alumno y compartirlas por enlace web o WhatsApp.
+Esto simplifica la entrega del plan de entrenamiento y evita friccion tecnica.
+
+Objetivo del modulo:
+- Que el alumno acceda a su rutina sin instalar app.
+- Reducir errores y perdida de versiones.
+- Facilitar el envio inmediato desde el panel del profesor.
+
+Puntos clave:
+1) Cada asignacion genera un enlace unico.
+2) El enlace se puede copiar o enviar por WhatsApp.
+3) Estado de asignacion: activa/inactiva para controlar acceso.
+4) Gestion centralizada de asignaciones por alumno.
+
+Beneficio para el alumno:
+- Acceso rapido desde celular.
+- Menos pasos para ver su rutina.
+- Mejor continuidad en el entrenamiento.
+
+Beneficio para el gimnasio:
+- Menos consultas repetidas de "pasame la rutina".
+- Mas orden en la comunicacion.
+- Mejor trazabilidad de lo que se envia y cuando.
+
+Enfoque recomendado para NotebookLM:
+Resaltar que este modulo elimina fricciones y hace que la experiencia digital sea simple tanto para el profesor como para el alumno.
+
+Mensaje clave de cierre:
+Si la rutina llega facil, el alumno entrena mejor y el gym trabaja con menos ruido.

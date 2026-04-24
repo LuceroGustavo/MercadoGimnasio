@@ -1,0 +1,31 @@
+PROGRESO DEL ALUMNO - SEGUIMIENTO QUE AGREGA VALOR
+
+La APP Administracion de Gym presencial y virtual incluye un bloque de progreso para registrar observaciones y evolucion.
+Este modulo convierte la atencion diaria en informacion util para mejorar decisiones de entrenamiento.
+
+Objetivo del modulo:
+- Registrar avances y observaciones de manera ordenada.
+- Dar continuidad al trabajo entre sesiones.
+- Mostrar seguimiento personalizado del alumno.
+
+Que aporta:
+1) Historial de observaciones.
+2) Registro por fechas y contexto de entrenamiento.
+3) Conexion con asistencia y rutina asignada.
+4) Mejor lectura de evolucion a mediano plazo.
+
+Impacto operativo:
+- Permite ajustar rutinas con criterio.
+- Facilita trabajo colaborativo del staff.
+- Reduce dependencia de memoria individual del profesor.
+
+Impacto comercial:
+- El alumno percibe seguimiento profesional real.
+- Aumenta confianza y permanencia.
+- Diferencia al gimnasio frente a propuestas mas basicas.
+
+Enfoque recomendado para NotebookLM:
+Enfatizar que este modulo transforma datos sueltos en seguimiento de valor, mejorando resultados y calidad de servicio.
+
+Mensaje clave de cierre:
+Un alumno seguido con metodo tiene mejores resultados y mayor fidelizacion.
