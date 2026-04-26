@@ -84,6 +84,11 @@ Semana 4:
 - Exportar PDF/videos en `03_exportables/`.
 - Hacer `git push` al cerrar para continuar en la otra PC.
 
+Estado de avance (actual):
+- [x] Cargado material base de `00_fuente_texto/` y capturas relacionadas.
+- [x] Generados 4 PDF en NotebookLM.
+- [x] Generada 1 presentacion tipo PowerPoint en NotebookLM.
+
 ## 8) Criterio de calidad minimo
 
 - No prometer funciones no documentadas.
