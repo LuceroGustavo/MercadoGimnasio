@@ -1,5 +1,7 @@
 # Plan maestro inicial - Mattfuncional
 
+**Nombre para venta (actual):** App administración de gimnasio. *Mattfuncional* = referencia técnica / proyecto en código y documentación interna.
+
 Este plan ordena la produccion comercial para salir al mercado con foco en gimnasios.
 Objetivo: tener una carpeta reenviable, facil de mantener y lista para generar piezas con IA.
 

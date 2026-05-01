@@ -1,0 +1,20 @@
+INDICE DE BLOQUES — VERSION LIVIANA (PERSONAL TRAINERS / ONLINE)
+Producto de referencia: MiGym Virtual
+
+0- indice de bloques
+1- introduccion (trainer / negocio online)
+2- pagina publica (marca, planes, contacto, redes)
+3- panel del profesor
+4- alumnos y ficha (enfoque virtual)
+5- ejercicios y grupos musculares
+6- series y rutinas
+7- asignaciones por enlace y whatsapp
+8- progreso del alumno
+9- administracion del sistema
+10- implementacion dominio servidor y soporte inicial
+11- cierre comercial
+
+REGLAS:
+- Un archivo TXT por bloque (mismo prefijo numerico que este indice).
+- Nombres de imagenes alineados al bloque (ej.: 2- pagina publica-01.png).
+- NO incluir en esta version: calendario semanal tipo gimnasio, pizarra digital en TV, presentismo de sala como bloque principal.
