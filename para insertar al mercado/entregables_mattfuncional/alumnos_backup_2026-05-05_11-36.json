@@ -1,0 +1,6952 @@
+{
+  "version" : "1.0",
+  "fecha" : "2026-05-05T11:36:44.789491257",
+  "profesorId" : 1,
+  "cantidadAlumnos" : 137,
+  "tipo" : "backup_alumnos",
+  "alumnos" : [ {
+    "nombre" : "Fernanda Preit",
+    "correo" : null,
+    "celular" : "1158159053",
+    "edad" : 47,
+    "fechaNacimiento" : "1978-12-07",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-13",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Aluna de hace mucho tiempo ",
+    "objetivosPersonales" : "Ganar fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-18",
+      "presente" : true,
+      "observaciones" : "trabajo con 15 k mejoro postura",
+      "gruposTrabajados" : [ "CARDIO", "BRAZOS" ]
+    } ]
+  }, {
+    "nombre" : "Andrea Lopez",
+    "correo" : null,
+    "celular" : "1133245889",
+    "edad" : 51,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "ONLINE",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "es un slimno de hace año",
+    "objetivosPersonales" : "bajar de peso- Aumento de masa muscular",
+    "restriccionesMedicas" : "Diabetes tipo 2",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ ],
+    "mediciones" : [ ],
+    "asistencias" : [ ]
+  }, {
+    "nombre" : "Juan Pablo Pfeiffer",
+    "correo" : null,
+    "celular" : "1159282766",
+    "edad" : 26,
+    "fechaNacimiento" : "1999-07-05",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Pérdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Julieta Paredes",
+    "correo" : null,
+    "celular" : "1123333456",
+    "edad" : 21,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "12:00",
+      "horaSalida" : "13:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Abril Olivera",
+    "correo" : null,
+    "celular" : "1136637165",
+    "edad" : 19,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-28",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Agustin Pilone",
+    "correo" : null,
+    "celular" : "1167383201",
+    "edad" : 17,
+    "fechaNacimiento" : "2008-12-22",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "El es jugador amateur- profesional de futbol en almagro",
+    "objetivosPersonales" : "Aumentar la masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-30",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Alan Golia",
+    "correo" : null,
+    "celular" : "1158090569",
+    "edad" : 24,
+    "fechaNacimiento" : null,
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Ex jugador amateur de futbol",
+    "objetivosPersonales" : "Aumentar masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Rehabilitación de menisco en la rodilla izquierda",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-30",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Alejandra Torres",
+    "correo" : null,
+    "celular" : "1145639220",
+    "edad" : 49,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Se le dificulta la flexión de rodilla izquierda",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Operación en rotula izquierda",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Ambar Rodriguez",
+    "correo" : null,
+    "celular" : "1149454139",
+    "edad" : 17,
+    "fechaNacimiento" : "2008-05-15",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Le cuesta ganar masa muscular",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-25",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Ana Baiziso",
+    "correo" : null,
+    "celular" : "1139020269",
+    "edad" : 53,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Empieze a aumentar los pesos en los elementos a trabajar",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Ana Gianico",
+    "correo" : null,
+    "celular" : "1166814498",
+    "edad" : 57,
+    "fechaNacimiento" : "1969-04-15",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Es fumadora",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Gonzalo Arean",
+    "correo" : null,
+    "celular" : "1143995872",
+    "edad" : 26,
+    "fechaNacimiento" : "1999-10-04",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "13:00",
+      "horaSalida" : "14:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Leonardo Arean",
+    "correo" : null,
+    "celular" : "1128328539",
+    "edad" : 14,
+    "fechaNacimiento" : "2011-11-09",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Estar mas atento a la técnica y a los pesos porque es menor de edad",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguno",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Veronica Navarro",
+    "correo" : null,
+    "celular" : "1130165204",
+    "edad" : 42,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "El segundo dia no tiene un horario determinado pero los sabados fijo a las 11",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "SABADO",
+      "horaEntrada" : "12:00",
+      "horaSalida" : "13:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-25",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Dario Taborda",
+    "correo" : null,
+    "celular" : "1130165206",
+    "edad" : 43,
+    "fechaNacimiento" : null,
+    "sexo" : "",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Viene lo sabados fijos a las 11 el segundo dia es a coordinar",
+    "objetivosPersonales" : "Aumento de masa muscular y resistencia- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Lesión en la rodilla derecha ",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "SABADO",
+      "horaEntrada" : "11:00",
+      "horaSalida" : "12:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Matias Ortiz",
+    "correo" : null,
+    "celular" : "1162516257",
+    "edad" : 18,
+    "fechaNacimiento" : "2008-03-25",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "Natalia",
+    "contactoEmergenciaTelefono" : "1134678083",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "VIERNES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "LUNES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : "Hizo biceps.",
+      "gruposTrabajados" : [ "BRAZOS", "ESPALDA" ]
+    }, {
+      "fecha" : "2026-04-25",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Tomas Ortiz",
+    "correo" : null,
+    "celular" : "1168467312",
+    "edad" : 13,
+    "fechaNacimiento" : "2012-08-30",
+    "sexo" : "",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Menor de edad y tener en cuenta la técnica los pesos que tira",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "Natalia",
+    "contactoEmergenciaTelefono" : "1134678083",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "JUEVES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "13:00",
+      "horaSalida" : "14:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ "PIERNAS" ]
+    } ]
+  }, {
+    "nombre" : "Juan Sayagua",
+    "correo" : null,
+    "celular" : "1127081298",
+    "edad" : 18,
+    "fechaNacimiento" : "2008-02-27",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de fuerza- Aumento de masa muscular",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "Analia",
+    "contactoEmergenciaTelefono" : "1168382538",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ "PIERNAS" ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : "En brazos hizo triceps",
+      "gruposTrabajados" : [ "PECHO", "BRAZOS" ]
+    } ]
+  }, {
+    "nombre" : "Ivana Giron",
+    "correo" : null,
+    "celular" : "1162062456",
+    "edad" : 44,
+    "fechaNacimiento" : "1981-09-08",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Perdida de peso- Aumento de masa mucular",
+    "restriccionesMedicas" : "Obesidad y problemas en las rodillas.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "JUEVES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    }, {
+      "dia" : "LUNES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ "BRAZOS", "ESPALDA" ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Diego Cerutti",
+    "correo" : null,
+    "celular" : "1167982244",
+    "edad" : 33,
+    "fechaNacimiento" : null,
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Perdida de tejido adiposo- Aumento de masa muscular",
+    "restriccionesMedicas" : "Obesidad.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ "CORE", "HOMBROS" ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Diego De Marco",
+    "correo" : null,
+    "celular" : "1155036132",
+    "edad" : 43,
+    "fechaNacimiento" : "1982-10-25",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "INACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : "2026-05-03",
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : "En brazos hizo biceps",
+      "gruposTrabajados" : [ "PECHO", "BRAZOS" ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-20",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Mariana Humerez",
+    "correo" : null,
+    "celular" : "1163300554",
+    "edad" : 34,
+    "fechaNacimiento" : "1991-05-22",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Hace tela.",
+    "objetivosPersonales" : "Aumento de masa muscular y de fuerza- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "VIERNES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    }, {
+      "dia" : "LUNES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Andrea Di Fede",
+    "correo" : null,
+    "celular" : "1121864938",
+    "edad" : 56,
+    "fechaNacimiento" : "1969-07-20",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Lesion en las rodillas y obesidad",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : "Hizo Full body",
+      "gruposTrabajados" : [ "HÍBRIDO" ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-20",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Gonzalo Salomon",
+    "correo" : null,
+    "celular" : "1132329907",
+    "edad" : 42,
+    "fechaNacimiento" : "1984-02-24",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Lautaro Quiroga",
+    "correo" : null,
+    "celular" : "1160594949",
+    "edad" : 17,
+    "fechaNacimiento" : null,
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Menor de edad, pero hizo basquet un tiempo largo.",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Hannah Lebon",
+    "correo" : null,
+    "celular" : "1162151144",
+    "edad" : 34,
+    "fechaNacimiento" : "1991-04-30",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Es profesora de Yoga",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Santiago Caruso",
+    "correo" : null,
+    "celular" : "1163755698",
+    "edad" : 31,
+    "fechaNacimiento" : "1994-08-11",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Juega al Rugby",
+    "objetivosPersonales" : "Aumento de masa muscular y fuerza- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Molestias en los manguitos rotadores",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Brenda Caruso",
+    "correo" : null,
+    "celular" : "1156419563",
+    "edad" : 27,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "SABADO",
+      "horaEntrada" : "11:00",
+      "horaSalida" : "12:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Nahuel Montero",
+    "correo" : null,
+    "celular" : "1158054990",
+    "edad" : 31,
+    "fechaNacimiento" : "1995-01-18",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "12:00",
+      "horaSalida" : "13:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Daira Bruno",
+    "correo" : null,
+    "celular" : "1137935081",
+    "edad" : 29,
+    "fechaNacimiento" : "1996-08-26",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Hace pol dance",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Fernando Catrambone",
+    "correo" : null,
+    "celular" : "1157019479",
+    "edad" : 30,
+    "fechaNacimiento" : "1996-01-23",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Pectoral derecho presenta poca masa muscular",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "JUEVES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "LUNES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ "PIERNAS" ]
+    } ]
+  }, {
+    "nombre" : "Ezequiel Santasmarinas",
+    "correo" : null,
+    "celular" : "1130925149",
+    "edad" : 20,
+    "fechaNacimiento" : null,
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Se esta preparando para hacer powerlifting",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Valentin Pilone",
+    "correo" : null,
+    "celular" : "1164919270",
+    "edad" : 19,
+    "fechaNacimiento" : "2006-08-08",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Fernanda Pontoriero",
+    "correo" : null,
+    "celular" : "1134630915",
+    "edad" : 33,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Giselle Tossetti",
+    "correo" : null,
+    "celular" : "1163711675",
+    "edad" : 42,
+    "fechaNacimiento" : "1983-06-11",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "SEMIPRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "No tiene un horario fijo programado.",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "SABADO",
+      "horaEntrada" : "06:00",
+      "horaSalida" : "07:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Lautaro Rodriguez",
+    "correo" : null,
+    "celular" : "1131843491",
+    "edad" : 25,
+    "fechaNacimiento" : "2001-03-30",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-20",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Brandon Dattile",
+    "correo" : null,
+    "celular" : "1160205088",
+    "edad" : 20,
+    "fechaNacimiento" : null,
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Leve escoliosis",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Marta Paez",
+    "correo" : null,
+    "celular" : "1141713726",
+    "edad" : 59,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Asmática",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "JUEVES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    }, {
+      "dia" : "LUNES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Analia Palmieri",
+    "correo" : null,
+    "celular" : "1154811144",
+    "edad" : 40,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular-Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Andres Escudero",
+    "correo" : null,
+    "celular" : "1169386393",
+    "edad" : 50,
+    "fechaNacimiento" : "1975-11-25",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Obesidad.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-20",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Paola Bruno",
+    "correo" : null,
+    "celular" : "1136869961",
+    "edad" : 40,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Paso por un tratamiento de cáncer de mamas",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Marco Escudero",
+    "correo" : null,
+    "celular" : "1141875339",
+    "edad" : 25,
+    "fechaNacimiento" : "2001-01-01",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Molestias en la muñeca izquierda",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-20",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Guadalupe Escudero",
+    "correo" : null,
+    "celular" : "1123860581",
+    "edad" : 19,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Sufre de migraña",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Beatriz Andujar",
+    "correo" : null,
+    "celular" : "1134360300",
+    "edad" : 70,
+    "fechaNacimiento" : "1955-10-01",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Molestias al caminar y tener cuidado con los pesos en el ten inferior.",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Dolores en las rodillas",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : "Hizo full body",
+      "gruposTrabajados" : [ "HÍBRIDO" ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-20",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Belen Ruiz",
+    "correo" : null,
+    "celular" : "1132828926",
+    "edad" : 37,
+    "fechaNacimiento" : "1989-04-24",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Dolores en la zona lumbar",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Belen Marino",
+    "correo" : null,
+    "celular" : "1133221483",
+    "edad" : 29,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Entrena con franco",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Camila Escobar",
+    "correo" : null,
+    "celular" : "1154699588",
+    "edad" : 28,
+    "fechaNacimiento" : "1997-12-02",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular y fuerza - Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Lucas Moya",
+    "correo" : null,
+    "celular" : "1159768359",
+    "edad" : 30,
+    "fechaNacimiento" : "1995-08-16",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza.",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Elizabeth Dellisanti",
+    "correo" : null,
+    "celular" : "1141793431",
+    "edad" : 48,
+    "fechaNacimiento" : "1977-07-22",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : "Hizo biceps",
+      "gruposTrabajados" : [ "BRAZOS", "ESPALDA" ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Gustavo Lucero",
+    "correo" : null,
+    "celular" : "1159293920",
+    "edad" : 48,
+    "fechaNacimiento" : "1977-07-06",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "El creador de esta maravilla.",
+    "objetivosPersonales" : "Aumento de masa muscular-Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Cervicalgia- Desgarro gemelo izquierdo.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Eduardo Carbone",
+    "correo" : null,
+    "celular" : "1144200729",
+    "edad" : 65,
+    "fechaNacimiento" : "1960-05-29",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Falta de movilidad y tuvo un infarto miocardio",
+    "objetivosPersonales" : "Aumento de masa muscular, Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Problemas cardiacos operacion del hombro",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Dana Mehle",
+    "correo" : null,
+    "celular" : "1159938539",
+    "edad" : 36,
+    "fechaNacimiento" : "1989-07-01",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Le cuesta ganar peso.",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza.",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Luciano Racana",
+    "correo" : null,
+    "celular" : "1169163003",
+    "edad" : 35,
+    "fechaNacimiento" : "1990-08-28",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza.",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "12:00",
+      "horaSalida" : "13:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Lautaro Moreira",
+    "correo" : null,
+    "celular" : "1152619367",
+    "edad" : 21,
+    "fechaNacimiento" : null,
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de peso, Aumento de masa muscular",
+    "restriccionesMedicas" : "Movimiento involuntario de la mano, dificultad al caminar",
+    "contactoEmergenciaNombre" : "Claudia",
+    "contactoEmergenciaTelefono" : "1151793080",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-25",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-20",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Soledad Alegre",
+    "correo" : null,
+    "celular" : "1165709831",
+    "edad" : 41,
+    "fechaNacimiento" : "1985-03-14",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Peridida de tejido adiposo",
+    "restriccionesMedicas" : "Rectificación cervical",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Christian Rega",
+    "correo" : null,
+    "celular" : "1166659053",
+    "edad" : 41,
+    "fechaNacimiento" : "1985-02-09",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "INACTIVO",
+    "fechaAlta" : "2026-04-18",
+    "fechaBaja" : "2026-04-22",
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Atleta de Hyrox",
+    "objetivosPersonales" : "Aumento de masa muscular-Aumento de fuerza",
+    "restriccionesMedicas" : "Operación estética de colgajos",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "SABADO",
+      "horaEntrada" : "11:00",
+      "horaSalida" : "12:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    }, {
+      "dia" : "LUNES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-22",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Fernando Astudillo",
+    "correo" : null,
+    "celular" : "1140982038",
+    "edad" : 64,
+    "fechaNacimiento" : null,
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Diabetes tipo 2",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ "PIERNAS", "CORE", "ESPALDA" ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Roxana Pilone",
+    "correo" : null,
+    "celular" : "1166965442",
+    "edad" : 59,
+    "fechaNacimiento" : "1967-04-11",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Escoliosis",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ "PIERNAS" ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Sol Grosso",
+    "correo" : null,
+    "celular" : "1160003768",
+    "edad" : 37,
+    "fechaNacimiento" : "1989-01-30",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Necesita ganar masa muscular.",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida d etejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ "PIERNAS" ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Enzo D' ovidio",
+    "correo" : null,
+    "celular" : "1155865837",
+    "edad" : 68,
+    "fechaNacimiento" : "1958-03-25",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Enfoque en piernas.",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo.",
+    "restriccionesMedicas" : "Soriasis",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Lorena Cruz",
+    "correo" : null,
+    "celular" : "1162505414",
+    "edad" : 54,
+    "fechaNacimiento" : "1972-01-24",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo.",
+    "restriccionesMedicas" : "Dolor en el talón derecho",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "VIERNES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "LUNES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Maira Varvuzza",
+    "correo" : null,
+    "celular" : "1166017206",
+    "edad" : 40,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa mucular. Perdidade tejido adiposo",
+    "restriccionesMedicas" : "Salio de un cáncer.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "13:00",
+      "horaSalida" : "14:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Emma Montesinos",
+    "correo" : null,
+    "celular" : "1150548885",
+    "edad" : 19,
+    "fechaNacimiento" : "2006-08-07",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Estaba en el plantel de voley competitivo.",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Dario Corcoglioniti",
+    "correo" : null,
+    "celular" : "1162284291",
+    "edad" : 50,
+    "fechaNacimiento" : null,
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    }, {
+      "dia" : "LUNES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-20",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Maximiliano Uria",
+    "correo" : null,
+    "celular" : "1150451590",
+    "edad" : 28,
+    "fechaNacimiento" : "1997-12-10",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Molestia en ambas muñecas",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-02",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-25",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-20",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Mariela Celio",
+    "correo" : null,
+    "celular" : "1156438407",
+    "edad" : 53,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Operacion reciente de piedritas en los riñones",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Nadia Cruz",
+    "correo" : null,
+    "celular" : "1132983159",
+    "edad" : 48,
+    "fechaNacimiento" : "1977-07-19",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular-Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Silvia Lopez",
+    "correo" : null,
+    "celular" : "1168496601",
+    "edad" : 53,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "INACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : "2026-05-02",
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Artrosis en el hombro y tirones en la rodilla",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-22",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Matias Busson",
+    "correo" : null,
+    "celular" : "1138565702",
+    "edad" : 34,
+    "fechaNacimiento" : null,
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Molestias en la zona lumbar al hacer peso muerto o remo",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Romina Bendicto",
+    "correo" : null,
+    "celular" : "1163776570",
+    "edad" : 37,
+    "fechaNacimiento" : "1988-10-26",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "LUNES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-04",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Norma Roncati",
+    "correo" : null,
+    "celular" : "1154247952",
+    "edad" : 76,
+    "fechaNacimiento" : "1950-01-30",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Peridida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Jorge Martinez",
+    "correo" : null,
+    "celular" : "1126365139",
+    "edad" : 70,
+    "fechaNacimiento" : "1955-04-25",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular-Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Ramiro Peralta",
+    "correo" : null,
+    "celular" : "1127445167",
+    "edad" : 20,
+    "fechaNacimiento" : "2006-03-11",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Le cuesta ganar masa muscular",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Patricia D' Acunti",
+    "correo" : null,
+    "celular" : "1135818648",
+    "edad" : 42,
+    "fechaNacimiento" : "1983-09-01",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Karen Aboud",
+    "correo" : null,
+    "celular" : "1167415415",
+    "edad" : 55,
+    "fechaNacimiento" : "1970-09-11",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adipoo",
+    "restriccionesMedicas" : "Lesiones en las rodillas",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ "PIERNAS" ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Mateo Casimiro",
+    "correo" : null,
+    "celular" : "1161318150",
+    "edad" : 17,
+    "fechaNacimiento" : null,
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "VIERNES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Ricardo Frugoni",
+    "correo" : null,
+    "celular" : "1159242502",
+    "edad" : 59,
+    "fechaNacimiento" : "1966-12-02",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Monica Lago",
+    "correo" : null,
+    "celular" : "1130071745",
+    "edad" : 64,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Es fumadora",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo.",
+    "restriccionesMedicas" : "Operaciones de meniscos en ambas rodillas",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Agata Tello",
+    "correo" : null,
+    "celular" : "1157215645",
+    "edad" : 34,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "INACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : "2026-04-23",
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Hace poldance",
+    "objetivosPersonales" : "Aumento de fuerza y de masa muscular",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ ]
+  }, {
+    "nombre" : "Carlos Gervasi",
+    "correo" : null,
+    "celular" : "1131695068",
+    "edad" : 57,
+    "fechaNacimiento" : "1968-05-05",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Molestias en el manguito rotador derecho",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "13:00",
+      "horaSalida" : "14:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Ornela Gervasi",
+    "correo" : null,
+    "celular" : "1135731162",
+    "edad" : 23,
+    "fechaNacimiento" : "2002-07-13",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Dolor en el tobillo por una caida",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-20",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Vanesa Bazan",
+    "correo" : null,
+    "celular" : "1139468649",
+    "edad" : 35,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "INACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : "2026-04-27",
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "13:00",
+      "horaSalida" : "14:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "13:00",
+      "horaSalida" : "14:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ ]
+  }, {
+    "nombre" : "Yamila Kopalek",
+    "correo" : null,
+    "celular" : "1157310344",
+    "edad" : 41,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "13:00",
+      "horaSalida" : "14:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "13:00",
+      "horaSalida" : "14:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ ]
+  }, {
+    "nombre" : "Pablo Lamm",
+    "correo" : null,
+    "celular" : "1134404468",
+    "edad" : 28,
+    "fechaNacimiento" : "1997-12-06",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Pablo Hernandez",
+    "correo" : null,
+    "celular" : "1161005998",
+    "edad" : 43,
+    "fechaNacimiento" : "1982-09-23",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Hipertension",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Norma Juarez",
+    "correo" : null,
+    "celular" : "1168545533",
+    "edad" : 44,
+    "fechaNacimiento" : "1981-10-02",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-19",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Edgardo Golia",
+    "correo" : null,
+    "celular" : "1122644165",
+    "edad" : 49,
+    "fechaNacimiento" : "1977-01-04",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-20",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Dolor en la zona lumbar",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-20",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Karina Olivero",
+    "correo" : null,
+    "celular" : "1126951209",
+    "edad" : 55,
+    "fechaNacimiento" : "1970-12-22",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-20",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Karina Saitta",
+    "correo" : null,
+    "celular" : "1121744018",
+    "edad" : 51,
+    "fechaNacimiento" : "1975-02-08",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-20",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ "ESPALDA" ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Luciano Garbezza",
+    "correo" : null,
+    "celular" : "1136476646",
+    "edad" : 43,
+    "fechaNacimiento" : "1982-12-05",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "INACTIVO",
+    "fechaAlta" : "2026-04-20",
+    "fechaBaja" : "2026-05-04",
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "",
+    "restriccionesMedicas" : "",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Daniela Fernandez",
+    "correo" : null,
+    "celular" : "1169009881",
+    "edad" : 31,
+    "fechaNacimiento" : "1994-08-12",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "INACTIVO",
+    "fechaAlta" : "2026-04-20",
+    "fechaBaja" : "2026-05-04",
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Franco Maldonado",
+    "correo" : null,
+    "celular" : "1125653193",
+    "edad" : 0,
+    "fechaNacimiento" : null,
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-20",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "",
+    "restriccionesMedicas" : "profesor",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Diego Fernandez",
+    "correo" : null,
+    "celular" : "1162502105",
+    "edad" : 34,
+    "fechaNacimiento" : "1991-10-09",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-20",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular-Perdida de tejida adiposo",
+    "restriccionesMedicas" : "Sufre de migraña",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-28",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Gabriel Monti",
+    "correo" : null,
+    "celular" : "1168685126",
+    "edad" : 44,
+    "fechaNacimiento" : "1982-04-15",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular y fuerza- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Hipertenso",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "13:00",
+      "horaSalida" : "14:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-02",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Clara Maone",
+    "correo" : null,
+    "celular" : "1140879332",
+    "edad" : 55,
+    "fechaNacimiento" : "1971-03-22",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguno",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-30",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Lucio Ferrantelli",
+    "correo" : null,
+    "celular" : "1144041191",
+    "edad" : 28,
+    "fechaNacimiento" : "1997-07-01",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Viene una vez por semana",
+    "objetivosPersonales" : "Aumento de masa muscular y fuerza- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "SABADO",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : "hizo full body",
+      "gruposTrabajados" : [ "HÍBRIDO" ]
+    }, {
+      "fecha" : "2026-04-25",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Cosseth Lafuente",
+    "correo" : null,
+    "celular" : "1177165468",
+    "edad" : 23,
+    "fechaNacimiento" : "2002-08-30",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Mariel Caruso",
+    "correo" : null,
+    "celular" : "",
+    "edad" : 20,
+    "fechaNacimiento" : "2006-04-19",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "SEMIPRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "No tiene un horario fijo",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "SABADO",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ ]
+  }, {
+    "nombre" : "Alejandra Slasl",
+    "correo" : null,
+    "celular" : "1156244602",
+    "edad" : 51,
+    "fechaNacimiento" : "1974-11-30",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo.",
+    "restriccionesMedicas" : "Hinchazón en el codo derecho (posible codo de tenista)",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Melani Arriola",
+    "correo" : null,
+    "celular" : "1132669645",
+    "edad" : 0,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Esta volviendo a jugar al futbol",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Operación de meniscos",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Carmen Cunsolo",
+    "correo" : null,
+    "celular" : "1165130721",
+    "edad" : 66,
+    "fechaNacimiento" : "1959-05-22",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Problemas posturales",
+    "objetivosPersonales" : "Aumento de masa muscular y de fuerza",
+    "restriccionesMedicas" : "Leve cifosis ",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Christian Tuma",
+    "correo" : null,
+    "celular" : "1153838100",
+    "edad" : 52,
+    "fechaNacimiento" : "1974-01-17",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "SEMIPRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "No tiene un Horario fijo",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdidade tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "SABADO",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-05",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Claudio Busson",
+    "correo" : null,
+    "celular" : "1146734595",
+    "edad" : 0,
+    "fechaNacimiento" : null,
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo.",
+    "restriccionesMedicas" : "Lesión en muñeca",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "VIERNES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Juan De Marinis",
+    "correo" : null,
+    "celular" : "1159952184",
+    "edad" : 36,
+    "fechaNacimiento" : "1989-09-28",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "JUEVES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "11:00",
+      "horaSalida" : "12:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Marcos Antesana",
+    "correo" : null,
+    "celular" : "1158892337",
+    "edad" : 22,
+    "fechaNacimiento" : "2003-10-09",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular y fuerza- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-21",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Pablo De Marco",
+    "correo" : null,
+    "celular" : "1136797639",
+    "edad" : 41,
+    "fechaNacimiento" : "1984-07-05",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Operación De rodilla",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Karina Gonzalez",
+    "correo" : null,
+    "celular" : "1156134921",
+    "edad" : 54,
+    "fechaNacimiento" : "1971-07-19",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Usa siempre faja.",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Dolor fuerte en la zona lumbar, (posible hernia).",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ "CORE", "ESPALDA" ]
+    } ]
+  }, {
+    "nombre" : "Ignacio Caggegi",
+    "correo" : null,
+    "celular" : "1167330122",
+    "edad" : 0,
+    "fechaNacimiento" : null,
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "VIERNES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-30",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Agustin Seta",
+    "correo" : null,
+    "celular" : "1122624087",
+    "edad" : 35,
+    "fechaNacimiento" : "1990-08-26",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "12:00",
+      "horaSalida" : "13:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "21:00",
+      "horaSalida" : "22:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-30",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Martina Varela",
+    "correo" : null,
+    "celular" : "1167096614",
+    "edad" : 0,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-21",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumentar la masa muscular y fuerza- Perdida de tejido adiposo.",
+    "restriccionesMedicas" : "Ninguna.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ ]
+  }, {
+    "nombre" : "Anabella Ovejero",
+    "correo" : null,
+    "celular" : "1162936920",
+    "edad" : 0,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "INACTIVO",
+    "fechaAlta" : "2026-04-22",
+    "fechaBaja" : "2026-04-22",
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Pedida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ ]
+  }, {
+    "nombre" : "Carolina Mroue",
+    "correo" : null,
+    "celular" : "1150987282",
+    "edad" : 45,
+    "fechaNacimiento" : "1980-10-10",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-22",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-25",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Dante Palumbo",
+    "correo" : null,
+    "celular" : "1127356219",
+    "edad" : 14,
+    "fechaNacimiento" : "2011-06-08",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-22",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Una vez por semana",
+    "objetivosPersonales" : "Aumento de masa muscular y aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Leandro Leguizamon",
+    "correo" : null,
+    "celular" : "1132653887",
+    "edad" : 40,
+    "fechaNacimiento" : "1985-12-30",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-22",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ "PIERNAS" ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Nora Herrero",
+    "correo" : null,
+    "celular" : "1136086950",
+    "edad" : 60,
+    "fechaNacimiento" : "1966-01-17",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-22",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Operación de cadera en el acetábulo",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Nahir Anaise",
+    "correo" : null,
+    "celular" : "1158813657",
+    "edad" : 26,
+    "fechaNacimiento" : "1999-07-03",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-22",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-30",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Sol Sad",
+    "correo" : null,
+    "celular" : "1150125982",
+    "edad" : 0,
+    "fechaNacimiento" : null,
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-22",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular y de fuerza- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Molestias en la rodilla.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "14:00",
+      "horaSalida" : "15:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Juan Pablo Saravia",
+    "correo" : null,
+    "celular" : "1122419140",
+    "edad" : 18,
+    "fechaNacimiento" : "2007-09-08",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-22",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Ayelen Di Pino",
+    "correo" : null,
+    "celular" : "1532976578",
+    "edad" : 30,
+    "fechaNacimiento" : "1995-05-28",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-22",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Hace pole dance",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumentod e fuerza",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-22",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Miguel Goce",
+    "correo" : null,
+    "celular" : "1130287551",
+    "edad" : 0,
+    "fechaNacimiento" : null,
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-22",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adipoo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "JUEVES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    }, {
+      "dia" : "LUNES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Fernanda Gomez",
+    "correo" : null,
+    "celular" : "1136564225",
+    "edad" : 51,
+    "fechaNacimiento" : "1975-02-17",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-22",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adipoo",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-30",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Ramiro Lorenzo",
+    "correo" : null,
+    "celular" : "1165077799",
+    "edad" : 15,
+    "fechaNacimiento" : "2010-09-30",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-22",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguno.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-30",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Nadia Gonzalez",
+    "correo" : null,
+    "celular" : "1154137200",
+    "edad" : 45,
+    "fechaNacimiento" : "1981-04-19",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-23",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Molestias en el hombro derecho.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MARTES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-23",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ "BRAZOS", "ESPALDA", "HOMBROS" ]
+    } ]
+  }, {
+    "nombre" : "Tobias Rodriguez",
+    "correo" : null,
+    "celular" : "1154605263",
+    "edad" : 13,
+    "fechaNacimiento" : "2012-05-15",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-23",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Viene una vez por semana",
+    "objetivosPersonales" : "Aumento de masa muscular- Aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "SABADO",
+      "horaEntrada" : "13:00",
+      "horaSalida" : "14:00"
+    }, {
+      "dia" : "LUNES",
+      "horaEntrada" : "15:00",
+      "horaSalida" : "16:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Ezequiel Di Nardo",
+    "correo" : null,
+    "celular" : "1125086302",
+    "edad" : 27,
+    "fechaNacimiento" : "1998-07-08",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-23",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Operacion de apendicitis",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-24",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Noelia Forzani",
+    "correo" : null,
+    "celular" : "1145630873",
+    "edad" : 38,
+    "fechaNacimiento" : "1987-12-22",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-24",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Le cuesta ganar masa muscular.",
+    "objetivosPersonales" : "Aumento de masa muscular y aumento de fuerza",
+    "restriccionesMedicas" : "Ninguna.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Micaela Abila",
+    "correo" : null,
+    "celular" : "1123984096",
+    "edad" : 29,
+    "fechaNacimiento" : "1996-11-01",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-24",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Ninguna.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    }, {
+      "dia" : "VIERNES",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : "Hizo full body",
+      "gruposTrabajados" : [ "HÍBRIDO" ]
+    } ]
+  }, {
+    "nombre" : "Maria Falchi",
+    "correo" : null,
+    "celular" : "1158291386",
+    "edad" : 48,
+    "fechaNacimiento" : "1977-07-07",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-25",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "Viene una vez a la semana.",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo.",
+    "restriccionesMedicas" : "Ninguna",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "SABADO",
+      "horaEntrada" : "11:00",
+      "horaSalida" : "12:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Fabio Muñoz",
+    "correo" : null,
+    "celular" : "1153315115",
+    "edad" : 59,
+    "fechaNacimiento" : "1966-11-04",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-25",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo.",
+    "restriccionesMedicas" : "Ninguna.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "SABADO",
+      "horaEntrada" : "13:00",
+      "horaSalida" : "14:00"
+    }, {
+      "dia" : "LUNES",
+      "horaEntrada" : "19:00",
+      "horaSalida" : "20:00"
+    }, {
+      "dia" : "MARTES",
+      "horaEntrada" : "20:00",
+      "horaSalida" : "21:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-05-02",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ "HOMBROS" ]
+    }, {
+      "fecha" : "2026-04-28",
+      "presente" : true,
+      "observaciones" : "Hizo triceps.",
+      "gruposTrabajados" : [ "BRAZOS", "ESPALDA" ]
+    }, {
+      "fecha" : "2026-04-27",
+      "presente" : true,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-25",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ "PIERNAS" ]
+    } ]
+  }, {
+    "nombre" : "Agustina Robustelli",
+    "correo" : null,
+    "celular" : "1164112067",
+    "edad" : 23,
+    "fechaNacimiento" : "2002-08-23",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-25",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular y de fuerza- Perdida de tejido adiposo.",
+    "restriccionesMedicas" : "Ninguno.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-04-30",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    }, {
+      "fecha" : "2026-04-29",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Marcelo Perez",
+    "correo" : null,
+    "celular" : "1135566057",
+    "edad" : 55,
+    "fechaNacimiento" : "1970-06-30",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-27",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "",
+    "restriccionesMedicas" : "",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "08:00",
+      "horaSalida" : "09:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Monica Lemos",
+    "correo" : null,
+    "celular" : "1134158288",
+    "edad" : 51,
+    "fechaNacimiento" : "1974-08-12",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-28",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo.",
+    "restriccionesMedicas" : "Ninguna.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ ]
+  }, {
+    "nombre" : "Silvina Humerez",
+    "correo" : null,
+    "celular" : "1164114740",
+    "edad" : 37,
+    "fechaNacimiento" : "1988-05-20",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-04-30",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo.",
+    "restriccionesMedicas" : "Ninguna.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "11:00",
+      "horaSalida" : "12:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-02",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Florencia Lombardi",
+    "correo" : null,
+    "celular" : "1160276663",
+    "edad" : 32,
+    "fechaNacimiento" : "1993-08-30",
+    "sexo" : "",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-05-01",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- perdida de tejido adiposo.",
+    "restriccionesMedicas" : "Operación de muñeca.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "07:00",
+      "horaSalida" : "08:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "10:00",
+      "horaSalida" : "11:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ {
+      "fecha" : "2026-05-04",
+      "presente" : false,
+      "observaciones" : null,
+      "gruposTrabajados" : [ ]
+    } ]
+  }, {
+    "nombre" : "Leonardo Castiglione",
+    "correo" : null,
+    "celular" : "1140858318",
+    "edad" : 52,
+    "fechaNacimiento" : "1973-11-29",
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-05-04",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- Perdida de tejido adiposo.",
+    "restriccionesMedicas" : "Ninguna.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ ]
+  }, {
+    "nombre" : "Monica Golia",
+    "correo" : null,
+    "celular" : "",
+    "edad" : 52,
+    "fechaNacimiento" : "1973-08-18",
+    "sexo" : "Femenino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-05-04",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular- perdida de tejido adiposo.",
+    "restriccionesMedicas" : "Ninguna.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "LUNES",
+      "horaEntrada" : "16:00",
+      "horaSalida" : "17:00"
+    }, {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "17:00",
+      "horaSalida" : "18:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ ]
+  }, {
+    "nombre" : "Joel Luengo",
+    "correo" : null,
+    "celular" : "1168991925",
+    "edad" : 0,
+    "fechaNacimiento" : null,
+    "sexo" : "Masculino",
+    "peso" : 0.0,
+    "estadoAlumno" : "ACTIVO",
+    "fechaAlta" : "2026-05-04",
+    "fechaBaja" : null,
+    "fechaInicio" : null,
+    "tipoAsistencia" : "PRESENCIAL",
+    "detalleAsistencia" : null,
+    "notasProfesor" : "",
+    "objetivosPersonales" : "Aumento de masa muscular-Perdida de tejido adiposo",
+    "restriccionesMedicas" : "Leve esguince de tobillo.",
+    "contactoEmergenciaNombre" : "",
+    "contactoEmergenciaTelefono" : "",
+    "diasHorariosAsistencia" : [ {
+      "dia" : "MIERCOLES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "JUEVES",
+      "horaEntrada" : "18:00",
+      "horaSalida" : "19:00"
+    }, {
+      "dia" : "SABADO",
+      "horaEntrada" : "09:00",
+      "horaSalida" : "10:00"
+    } ],
+    "mediciones" : [ ],
+    "asistencias" : [ ]
+  } ]
+}
